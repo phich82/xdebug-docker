@@ -1,0 +1,11 @@
+[xdebug]
+; For xdebug v3.x.x
+; For xdebug v2.x.x
+;xdebug.remote_enable=1
+;xdebug.remote_host=host.docker.internal
+;xdebug.remote_port=9000
+;xdebug.remote_connect_back=0
+;xdebug.remote_autostart=1
+;xdebug.remote_connect_back=0
+;xdebug.remote_handler=dbgp
+;xdebug.max_nesting_level=250
